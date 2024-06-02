@@ -10,5 +10,5 @@ Through this project, I not only honed my technical skills but also gained valua
 By successfully executing the project and achieving alignment with the intended design,
 This experience has further reinforced my passion for creating engaging and user-friendly
 digital experiences, and I am excited to continue pushing the boundaries of my skills in future projects.<br>
-[active-states](https://github.com/Hasanain-Jaafar/card-component/assets/80710414/fff6d878-5e0b-4202-a696-16057abaee92)
+![active-states](https://github.com/Hasanain-Jaafar/card-component/assets/80710414/fff6d878-5e0b-4202-a696-16057abaee92)
 
