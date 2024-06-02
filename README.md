@@ -10,5 +10,3 @@ Through this project, I not only honed my technical skills but also gained valua
 By successfully executing the project and achieving alignment with the intended design,
 This experience has further reinforced my passion for creating engaging and user-friendly
 digital experiences, and I am excited to continue pushing the boundaries of my skills in future projects.
-<img src="./active-states.jpg">
-<img src="./mobile-design.jpg">
